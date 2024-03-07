@@ -1,14 +1,29 @@
-# solidworks_part
+# SolidWorks
+
+---
 
 >solidworks 下载
 
-<a href="https://ruancang.net/#/?page=0&id=6&_=1709687138768">软仓</a>
+[软仓](https://ruancang.net/#/?page=0&id=6&_=1709687138768)
 
->特征建模
+>基础建模 （sprt）
 
->曲面
+- 特征
+- 曲面
+- 钣金
+- 焊件
+- 综合
+- catics
 
->钣金&焊件
+>装配体 (sldasm)
 
->装配体
+- 机架
+- 轴承
 
+> 工程图 (slddrw)
+
+- 工程图
+
+> Autocad配合使用
+
+- 综合
