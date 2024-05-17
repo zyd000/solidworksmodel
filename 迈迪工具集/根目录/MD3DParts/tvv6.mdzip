@@ -1,0 +1,782 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<node name="MD">
+  <node Nm="100企业通用件库" T="企业通用件库  " Idx="10" sIdx="10" />
+  <node Nm="101气动元件" T="气动元件  " Idx="17" sIdx="17">
+    <node Nm="103亚德客企业集团" T="亚德客企业集团" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="105威海气动元件有限公司" T="威海气动元件有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="106上海新益气动元件有限公司" T="上海新益气动元件有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="107宁波亿日气动元件有限公司" T="宁波亿日气动元件有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="134无锡市圣汉斯气动阀门制造有限公司" T="无锡市圣汉斯气动阀门制造有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="135SMC（中国）有限公司" T="SMC（中国）有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="136费斯托（中国）有限公司" T="费斯托（中国）有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="102液压元件" T="液压元件  " Idx="14" sIdx="14">
+    <node Nm="101济南液压泵有限责任公司" T="济南液压泵有限责任公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="102康百世机电（上海）有限公司" T="康百世机电（上海）有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="103北京华德液压工业集团有限责任公司" T="北京华德液压工业集团有限责任公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="104上海大众液压技术有限公司" T="上海大众液压技术有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="103电机" T="电机  " Idx="20" sIdx="20">
+    <node Nm="001济南迈迪数码技术有限公司" T="济南迈迪数码技术有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="002南阳防爆集团股份有限公司" T="南阳防爆集团股份有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="003山东山博电机集团有限公司微电机厂" T="山东山博电机集团有限公司微电机厂" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="004博山特型电机有限公司" T="博山特型电机有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="106上海南洋电机有限公司" T="上海南洋电机有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="107大连电机集团有限公司" T="大连电机集团有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="108无锡惠斯通电机科技有限公司" T="无锡惠斯通电机科技有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="109杭州米格电机有限公司" T="杭州米格电机有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="110江西江特电气集团有限公司" T="江西江特电气集团有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="111山东华力电机集团股份有限公司" T="山东华力电机集团股份有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="112北京中创天勤科技发展有限公司" T="北京中创天勤科技发展有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="113西门子电机有限公司" T="西门子电机有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="444其它" T="其它" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="104泵类" T="泵类  " Idx="14" sIdx="14">
+    <node Nm="001佛山市南海九洲普惠风机有限公司" T="佛山市南海九洲普惠风机有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="103上海(台湾)万鑫机电有限公司" T="上海(台湾)万鑫机电有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="104江苏双菊风机有限公司" T="江苏双菊风机有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="202泰兴市东成气泵制造有限公司" T="泰兴市东成气泵制造有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="105轴承及配件" T="轴承及配件  " Idx="15" sIdx="15">
+    <node Nm="001东莞市TR轴承有限公司" T="东莞市TR轴承有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="002洛阳LYC轴承有限公司" T="洛阳LYC轴承有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="003浙江直线轴承制造有限公司" T="浙江直线轴承制造有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="004慈溪市特种轴承有限公司" T="慈溪市特种轴承有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="005洛阳轴研科技股份有限公司" T="洛阳轴研科技股份有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="106阀门" T="阀门  " Idx="13" sIdx="13">
+    <node Nm="101浙江双泰阀门有限公司" T="浙江双泰阀门有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="102天津市塘沽阀门厂" T="天津市塘沽阀门厂" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="103温州良钢管件阀业有限公司" T="温州良钢管件阀业有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="107紧固件" T="紧固件  " Idx="10" sIdx="10" />
+  <node Nm="108减速机" T="减速机  " Idx="20" sIdx="20">
+    <node Nm="002淄博山博安吉富齿轮电机有限公司" T="淄博山博安吉富齿轮电机有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="003宁波莱斯特传动设备制造有限公司" T="宁波莱斯特传动设备制造有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="104江苏省泰兴减速机总厂" T="江苏省泰兴减速机总厂" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="105上海巨能减速机械有限公司" T="上海巨能减速机械有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="106杭州嘉诚机械有限公司" T="杭州嘉诚机械有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="109山东柳杭减速机有限公司" T="山东柳杭减速机有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="110山东理工大学瑞华凸轮研究所机械有限公司" T="山东理工大学瑞华凸轮研究所机械有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="111浙江博能传动有限公司" T="浙江博能传动有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="112利茗机械股份有限公司" T="利茗机械股份有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="115浙江省永嘉县西迪传动机械有限公司" T="浙江省永嘉县西迪传动机械有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="116杭州速博雷尔传动机械有限公司" T="杭州速博雷尔传动机械有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="444其它" T="其它" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="109机床附件" T="机床附件  " Idx="13" sIdx="13">
+    <node Nm="101象山华洋机床附件厂" T="象山华洋机床附件厂" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="102平湖国科精工精密机械有限公司" T="平湖国科精工精密机械有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="123山东博特精工股份有限公司" T="山东博特精工股份有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="110型材" T="型材  " Idx="13" sIdx="13">
+    <node Nm="001上海欧宇铝制品有限公司" T="上海欧宇铝制品有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="101倍信机械设备贸易(上海)有限公司" T="倍信机械设备贸易(上海)有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="115上海闽坚铝业有限公司" T="上海闽坚铝业有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="111弹性元件" T="弹性元件  " Idx="10" sIdx="10" />
+  <node Nm="112五金件" T="五金件  " Idx="16" sIdx="16">
+    <node Nm="102广州精稳五金有限公司" T="广州精稳五金有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="103河北华利机械配件有限公司" T="河北华利机械配件有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="104佛山市南海区环球工业脚轮厂" T="佛山市南海区环球工业脚轮厂" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="105腾德脚轮（苏州）有限公司" T="腾德脚轮（苏州）有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="107中山市科致金属制品有限公司" T="中山市科致金属制品有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="117SUPO向荣动力工商业脚轮" T="SUPO向荣动力工商业脚轮" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="113传动件" T="传动件  " Idx="14" sIdx="14">
+    <node Nm="001武汉博能设备制造有限公司" T="武汉博能设备制造有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="002广州菱科自动化设备有限公司" T="广州菱科自动化设备有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="114北京新兴超越离合器有限公司" T="北京新兴超越离合器有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="115焦作市金箍制动器有限公司" T="焦作市金箍制动器有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="114汽摩配件" T="汽摩配件  " Idx="10" sIdx="10" />
+  <node Nm="115模具及相关配件" T="模具及相关配件  " Idx="11" sIdx="11">
+    <node Nm="101迈迪模具库" T="迈迪模具库" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="116变速器" T="变速器  " Idx="11" sIdx="11">
+    <node Nm="101宜兴市华通纺织机械有限公司" T="宜兴市华通纺织机械有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="117电子元件" T="电子元件  " Idx="11" sIdx="11">
+    <node Nm="110慈溪市海联电子有限公司" T="慈溪市海联电子有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="118仪器仪表" T="仪器仪表  " Idx="10" sIdx="10" />
+  <node Nm="119密封件" T="密封件  " Idx="10" sIdx="10" />
+  <node Nm="120高压电器" T="高压电器  " Idx="10" sIdx="10" />
+  <node Nm="121低压电器" T="低压电器  " Idx="12" sIdx="12">
+    <node Nm="101浙江正泰电器股份有限公司" T="浙江正泰电器股份有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="132常熟开关制造有限公司" T="常熟开关制造有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="122管道与管接头" T="管道与管接头  " Idx="12" sIdx="12">
+    <node Nm="001上海东流高压管件有限公司" T="上海东流高压管件有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+    <node Nm="113滕州市宇航旋转接头制造有限公司" T="滕州市宇航旋转接头制造有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="123法兰" T="法兰  " Idx="11" sIdx="11">
+    <node Nm="001博纳斯锻造有限公司" T="博纳斯锻造有限公司" Idx="7" sIdx="7">
+      <node Nm="" T="Temp" />
+    </node>
+  </node>
+  <node Nm="files" T="files">
+    <node Nm="100企业通用件库" T="100企业通用件库" />
+    <node Nm="101气动元件" T="101气动元件">
+      <node Nm="103亚德客企业集团" T="103亚德客企业集团">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-16 10:22:49♂2311♂" />
+        <node Nm="logo.jpg" T="2009-4-23 14:18:37♂7055♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-14 11:09:13♂49288♂" />
+      </node>
+      <node Nm="105威海气动元件有限公司" T="105威海气动元件有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 16:07:29♂2187♂" />
+        <node Nm="logo.jpg" T="2010-8-27 17:33:43♂3089♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-14 11:09:14♂43584♂" />
+      </node>
+      <node Nm="106上海新益气动元件有限公司" T="106上海新益气动元件有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 16:08:24♂1890♂" />
+        <node Nm="logo.jpg" T="2010-9-13 20:13:13♂2234♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-14 11:09:16♂82757♂" />
+      </node>
+      <node Nm="107宁波亿日气动元件有限公司" T="107宁波亿日气动元件有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 16:09:14♂1860♂" />
+        <node Nm="logo.jpg" T="2010-12-9 15:36:00♂1169♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-14 11:09:16♂7124♂" />
+      </node>
+      <node Nm="134无锡市圣汉斯气动阀门制造有限公司" T="134无锡市圣汉斯气动阀门制造有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 16:10:00♂2049♂" />
+        <node Nm="logo.jpg" T="2010-7-27 9:18:51♂7329♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-14 11:09:16♂2971♂" />
+      </node>
+      <node Nm="135smc（中国）有限公司" T="135smc（中国）有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-16 10:36:53♂482♂" />
+        <node Nm="logo.jpg" T="2013-6-28 10:30:59♂6009♂" />
+        <node Nm="title.txt" T="2009-3-15 11:22:59♂13394♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-14 11:09:48♂423179♂" />
+      </node>
+      <node Nm="136费斯托（中国）有限公司" T="136费斯托（中国）有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-16 10:38:29♂216♂" />
+        <node Nm="logo.jpg" T="2007-8-20 0:00:00♂6370♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-14 11:09:18♂99639♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-13 11:35:34♂911♂" />
+    </node>
+    <node Nm="102液压元件" T="102液压元件">
+      <node Nm="101济南液压泵有限责任公司" T="101济南液压泵有限责任公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-16 10:44:54♂2826♂" />
+        <node Nm="logo.jpg" T="2009-10-25 14:26:12♂1932♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:36♂4793♂" />
+      </node>
+      <node Nm="102康百世机电（上海）有限公司" T="102康百世机电（上海）有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-13 16:29:11♂968♂" />
+        <node Nm="desca.txt" T="2010-1-30 9:54:10♂379♂" />
+        <node Nm="logo.jpg" T="2010-1-30 8:54:46♂21446♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:39♂129719♂" />
+      </node>
+      <node Nm="103北京华德液压工业集团有限责任公司" T="103北京华德液压工业集团有限责任公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-16 10:46:33♂4237♂" />
+        <node Nm="logo.jpg" T="2010-12-9 9:03:43♂1287♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:39♂12658♂" />
+      </node>
+      <node Nm="104上海大众液压技术有限公司" T="104上海大众液压技术有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-16 14:04:27♂1754♂" />
+        <node Nm="logo.jpg" T="2013-3-15 11:39:25♂3554♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:40♂34543♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-16 14:23:49♂604♂" />
+    </node>
+    <node Nm="103电机" T="103电机">
+      <node Nm="001济南迈迪数码技术有限公司" T="001济南迈迪数码技术有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-16 15:45:37♂2336♂" />
+        <node Nm="logo.jpg" T="2013-6-8 17:00:33♂3163♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:42♂71589♂" />
+      </node>
+      <node Nm="002南阳防爆集团股份有限公司" T="002南阳防爆集团股份有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-19 17:10:55♂3835♂" />
+        <node Nm="logo.jpg" T="2009-4-21 14:18:58♂2256♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:43♂30347♂" />
+      </node>
+      <node Nm="003山东山博电机集团有限公司微电机厂" T="003山东山博电机集团有限公司微电机厂">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-19 17:12:04♂2057♂" />
+        <node Nm="logo.jpg" T="2013-6-28 11:05:04♂7692♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:43♂20346♂" />
+      </node>
+      <node Nm="004博山特型电机有限公司" T="004博山特型电机有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-19 17:13:15♂2035♂" />
+        <node Nm="logo.jpg" T="2009-10-20 10:02:28♂1855♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:43♂3581♂" />
+      </node>
+      <node Nm="106上海南洋电机有限公司" T="106上海南洋电机有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-8-1 15:20:16♂1139♂" />
+        <node Nm="logo.jpg" T="2011-5-5 23:58:18♂5064♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:44♂24075♂" />
+      </node>
+      <node Nm="107大连电机集团有限公司" T="107大连电机集团有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-8-1 15:21:12♂2334♂" />
+        <node Nm="logo.jpg" T="2011-1-26 15:14:56♂1891♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:44♂5804♂" />
+      </node>
+      <node Nm="108无锡惠斯通电机科技有限公司" T="108无锡惠斯通电机科技有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-19 17:19:41♂1702♂" />
+        <node Nm="logo.jpg" T="2011-9-11 16:42:57♂1829♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:44♂18967♂" />
+      </node>
+      <node Nm="109杭州米格电机有限公司" T="109杭州米格电机有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-19 17:37:56♂3614♂" />
+        <node Nm="logo.jpg" T="2013-3-16 11:30:38♂2936♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:44♂13524♂" />
+      </node>
+      <node Nm="110江西江特电气集团有限公司" T="110江西江特电气集团有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 9:51:33♂1792♂" />
+        <node Nm="logo.jpg" T="2012-3-20 15:48:51♂5480♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:44♂3507♂" />
+      </node>
+      <node Nm="111山东华力电机集团股份有限公司" T="111山东华力电机集团股份有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 10:21:22♂1873♂" />
+        <node Nm="logo.jpg" T="2012-3-22 18:37:34♂6632♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:45♂17036♂" />
+      </node>
+      <node Nm="112北京中创天勤科技发展有限公司" T="112北京中创天勤科技发展有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 10:21:17♂2009♂" />
+        <node Nm="logo.jpg" T="2012-3-22 18:37:38♂2994♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:45♂7403♂" />
+      </node>
+      <node Nm="113西门子电机有限公司" T="113西门子电机有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 10:48:24♂958♂" />
+        <node Nm="logo.jpg" T="2012-11-9 15:56:19♂2287♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:45♂7183♂" />
+      </node>
+      <node Nm="444其它" T="444其它">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 10:57:41♂226♂" />
+        <node Nm="logo.jpg" T="2010-6-29 14:46:02♂2094♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:46♂1588♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-20 10:59:14♂1605♂" />
+    </node>
+    <node Nm="104泵类" T="104泵类">
+      <node Nm="001佛山市南海九洲普惠风机有限公司" T="001佛山市南海九洲普惠风机有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:11:11♂2767♂" />
+        <node Nm="logo.jpg" T="2013-6-28 10:21:30♂5962♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:47♂78270♂" />
+      </node>
+      <node Nm="103上海(台湾)万鑫机电有限公司" T="103上海(台湾)万鑫机电有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:11:17♂1850♂" />
+        <node Nm="logo.jpg" T="2012-8-6 18:17:20♂6528♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:47♂16285♂" />
+      </node>
+      <node Nm="104江苏双菊风机有限公司" T="104江苏双菊风机有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:11:18♂2822♂" />
+        <node Nm="logo.jpg" T="2012-7-19 15:25:30♂5771♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:49♂64323♂" />
+      </node>
+      <node Nm="202泰兴市东成气泵制造有限公司" T="202泰兴市东成气泵制造有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:11:19♂1913♂" />
+        <node Nm="logo.jpg" T="2010-7-20 11:10:26♂3139♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:49♂1045♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-20 11:10:31♂602♂" />
+    </node>
+    <node Nm="105轴承及配件" T="105轴承及配件">
+      <node Nm="001东莞市tr轴承有限公司" T="001东莞市tr轴承有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:17:15♂2570♂" />
+        <node Nm="logo.jpg" T="2011-12-19 9:27:17♂2364♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:50♂85579♂" />
+      </node>
+      <node Nm="002洛阳lyc轴承有限公司" T="002洛阳lyc轴承有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:17:32♂3282♂" />
+        <node Nm="logo.jpg" T="2010-1-28 9:13:31♂61467♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:50♂42623♂" />
+      </node>
+      <node Nm="003浙江直线轴承制造有限公司" T="003浙江直线轴承制造有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:17:52♂2611♂" />
+        <node Nm="logo.jpg" T="2010-3-29 15:58:59♂1479♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:51♂56014♂" />
+      </node>
+      <node Nm="004慈溪市特种轴承有限公司" T="004慈溪市特种轴承有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:18:10♂1710♂" />
+        <node Nm="logo.jpg" T="2010-5-31 22:13:32♂2736♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:51♂8954♂" />
+      </node>
+      <node Nm="005洛阳轴研科技股份有限公司" T="005洛阳轴研科技股份有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:18:29♂3844♂" />
+        <node Nm="logo.jpg" T="2010-6-14 10:25:58♂2636♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:52♂43407♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-6-28 11:11:06♂661♂" />
+    </node>
+    <node Nm="106阀门" T="106阀门">
+      <node Nm="101浙江双泰阀门有限公司" T="101浙江双泰阀门有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:22:58♂1836♂" />
+        <node Nm="logo.jpg" T="2009-4-28 21:02:13♂2404♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:52♂23885♂" />
+      </node>
+      <node Nm="102天津市塘沽阀门厂" T="102天津市塘沽阀门厂">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:23:18♂627♂" />
+        <node Nm="logo.jpg" T="2009-5-26 17:07:09♂2729♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:52♂25563♂" />
+      </node>
+      <node Nm="103温州良钢管件阀业有限公司" T="103温州良钢管件阀业有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:23:41♂1153♂" />
+        <node Nm="logo.jpg" T="2010-8-19 11:39:27♂2799♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:52♂13918♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-20 11:21:02♂423♂" />
+    </node>
+    <node Nm="107紧固件" T="107紧固件" />
+    <node Nm="108减速机" T="108减速机">
+      <node Nm="002淄博山博安吉富齿轮电机有限公司" T="002淄博山博安吉富齿轮电机有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:35:50♂2274♂" />
+        <node Nm="logo.jpg" T="2009-10-5 15:31:30♂34394♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:53♂16417♂" />
+      </node>
+      <node Nm="003宁波莱斯特传动设备制造有限公司" T="003宁波莱斯特传动设备制造有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:36:08♂1630♂" />
+        <node Nm="logo.jpg" T="2009-4-15 18:15:10♂2273♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:53♂11418♂" />
+      </node>
+      <node Nm="104江苏省泰兴减速机总厂" T="104江苏省泰兴减速机总厂">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:36:24♂1743♂" />
+        <node Nm="logo.jpg" T="2013-8-10 15:20:56♂5463♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:54♂16219♂" />
+      </node>
+      <node Nm="105上海巨能减速机械有限公司" T="105上海巨能减速机械有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:36:59♂1719♂" />
+        <node Nm="logo.jpg" T="2010-12-8 20:16:32♂1710♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:54♂9552♂" />
+      </node>
+      <node Nm="106杭州嘉诚机械有限公司" T="106杭州嘉诚机械有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:37:15♂1627♂" />
+        <node Nm="logo.jpg" T="2011-1-26 11:49:54♂1710♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:55♂17457♂" />
+      </node>
+      <node Nm="109山东柳杭减速机有限公司" T="109山东柳杭减速机有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:37:30♂2373♂" />
+        <node Nm="logo.jpg" T="2011-9-11 16:58:08♂1034♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:55♂9126♂" />
+      </node>
+      <node Nm="110山东理工大学瑞华凸轮研究所机械有限公司" T="110山东理工大学瑞华凸轮研究所机械有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:37:48♂1663♂" />
+        <node Nm="logo.jpg" T="2011-10-20 17:13:10♂1771♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:55♂11013♂" />
+      </node>
+      <node Nm="111浙江博能传动有限公司" T="111浙江博能传动有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:38:03♂2047♂" />
+        <node Nm="logo.jpg" T="2012-8-6 18:17:06♂3702♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:56♂41489♂" />
+      </node>
+      <node Nm="112利茗机械股份有限公司" T="112利茗机械股份有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:38:20♂1195♂" />
+        <node Nm="logo.jpg" T="2013-6-28 11:14:13♂2709♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:57♂18707♂" />
+      </node>
+      <node Nm="115浙江省永嘉县西迪传动机械有限公司" T="115浙江省永嘉县西迪传动机械有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:38:38♂2240♂" />
+        <node Nm="logo.jpg" T="2012-1-12 17:28:56♂1653♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:57♂8049♂" />
+      </node>
+      <node Nm="116杭州速博雷尔传动机械有限公司" T="116杭州速博雷尔传动机械有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:38:54♂2147♂" />
+        <node Nm="logo.jpg" T="2012-1-12 17:29:25♂1162♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:58♂15286♂" />
+      </node>
+      <node Nm="444其它" T="444其它">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 11:34:30♂262♂" />
+        <node Nm="logo.jpg" T="2013-6-28 10:25:10♂5295♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:13:58♂1272♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-8-1 15:02:15♂1556♂" />
+    </node>
+    <node Nm="109机床附件" T="109机床附件">
+      <node Nm="101象山华洋机床附件厂" T="101象山华洋机床附件厂">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 13:15:22♂2480♂" />
+        <node Nm="logo.jpg" T="2011-4-27 23:18:36♂25470♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:01♂180033♂" />
+      </node>
+      <node Nm="102平湖国科精工精密机械有限公司" T="102平湖国科精工精密机械有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 13:15:05♂1081♂" />
+        <node Nm="logo.jpg" T="2013-3-14 9:26:30♂12199♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:02♂37592♂" />
+      </node>
+      <node Nm="123山东博特精工股份有限公司" T="123山东博特精工股份有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 13:13:17♂1770♂" />
+        <node Nm="logo.jpg" T="2013-6-28 10:34:51♂2404♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:02♂3621♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-20 13:15:59♂457♂" />
+    </node>
+    <node Nm="110型材" T="110型材">
+      <node Nm="001上海欧宇铝制品有限公司" T="001上海欧宇铝制品有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:30:40♂1854♂" />
+        <node Nm="logo.jpg" T="2010-6-1 16:23:30♂1741♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-17 9:25:06♂29240♂" />
+      </node>
+      <node Nm="101倍信机械设备贸易(上海)有限公司" T="101倍信机械设备贸易(上海)有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:30:41♂2247♂" />
+        <node Nm="logo.jpg" T="2010-10-20 9:40:03♂2095♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-17 9:25:07♂106784♂" />
+      </node>
+      <node Nm="115上海闽坚铝业有限公司" T="115上海闽坚铝业有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:30:45♂1680♂" />
+        <node Nm="logo.jpg" T="2013-6-28 10:39:52♂7168♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-17 9:25:07♂21240♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-20 14:31:34♂457♂" />
+    </node>
+    <node Nm="111弹性元件" T="111弹性元件" />
+    <node Nm="112五金件" T="112五金件">
+      <node Nm="102广州精稳五金有限公司" T="102广州精稳五金有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:34:29♂1077♂" />
+        <node Nm="logo.jpg" T="2009-7-19 10:41:28♂1912♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:05♂61054♂" />
+      </node>
+      <node Nm="103河北华利机械配件有限公司" T="103河北华利机械配件有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:34:48♂1908♂" />
+        <node Nm="logo.jpg" T="2010-4-7 15:54:25♂2279♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:05♂78823♂" />
+      </node>
+      <node Nm="104佛山市南海区环球工业脚轮厂" T="104佛山市南海区环球工业脚轮厂">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:35:02♂1445♂" />
+        <node Nm="logo.jpg" T="2010-5-14 10:40:18♂2121♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:06♂166646♂" />
+      </node>
+      <node Nm="105腾德脚轮（苏州）有限公司" T="105腾德脚轮（苏州）有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:35:17♂1773♂" />
+        <node Nm="logo.jpg" T="2011-9-11 16:58:22♂1543♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:06♂24807♂" />
+      </node>
+      <node Nm="107中山市科致金属制品有限公司" T="107中山市科致金属制品有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:35:32♂1587♂" />
+        <node Nm="logo.jpg" T="2011-10-21 17:01:22♂2530♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:07♂74772♂" />
+      </node>
+      <node Nm="117supo向荣动力工商业脚轮" T="117supo向荣动力工商业脚轮">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:35:47♂1550♂" />
+        <node Nm="logo.jpg" T="2012-1-12 17:28:25♂2866♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:08♂119604♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-20 14:37:06♂812♂" />
+    </node>
+    <node Nm="113传动件" T="113传动件">
+      <node Nm="001武汉博能设备制造有限公司" T="001武汉博能设备制造有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:41:03♂2723♂" />
+        <node Nm="logo.jpg" T="2009-11-11 15:22:14♂1622♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-14 10:45:51♂15385♂" />
+      </node>
+      <node Nm="002广州菱科自动化设备有限公司" T="002广州菱科自动化设备有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:41:18♂1141♂" />
+        <node Nm="logo.jpg" T="2007-5-27 17:59:22♂1523♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:09♂43753♂" />
+      </node>
+      <node Nm="114北京新兴超越离合器有限公司" T="114北京新兴超越离合器有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:41:34♂1829♂" />
+        <node Nm="logo.jpg" T="2013-6-28 10:41:41♂1728♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:09♂9173♂" />
+      </node>
+      <node Nm="115焦作市金箍制动器有限公司" T="115焦作市金箍制动器有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:42:03♂660♂" />
+        <node Nm="logo.jpg" T="2012-5-8 9:18:21♂16002♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:09♂4274♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-6-28 11:37:59♂590♂" />
+    </node>
+    <node Nm="114汽摩配件" T="114汽摩配件" />
+    <node Nm="115模具及相关配件" T="115模具及相关配件">
+      <node Nm="101迈迪模具库" T="101迈迪模具库">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 15:24:44♂2443♂" />
+        <node Nm="logo.jpg" T="2013-3-11 14:51:27♂1482♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:12♂147813♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-20 15:10:44♂173♂" />
+    </node>
+    <node Nm="116变速器" T="116变速器">
+      <node Nm="101宜兴市华通纺织机械有限公司" T="101宜兴市华通纺织机械有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:46:05♂1159♂" />
+        <node Nm="logo.jpg" T="2010-6-22 14:45:54♂2971♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:12♂5784♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-20 14:45:33♂225♂" />
+    </node>
+    <node Nm="117电子元件" T="117电子元件">
+      <node Nm="110慈溪市海联电子有限公司" T="110慈溪市海联电子有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:47:40♂1687♂" />
+        <node Nm="logo.jpg" T="2012-6-2 9:12:09♂4262♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:16♂209171♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-6-28 11:38:10♂209♂" />
+    </node>
+    <node Nm="118仪器仪表" T="118仪器仪表" />
+    <node Nm="119密封件" T="119密封件" />
+    <node Nm="120高压电器" T="120高压电器" />
+    <node Nm="121低压电器" T="121低压电器">
+      <node Nm="101浙江正泰电器股份有限公司" T="101浙江正泰电器股份有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:49:46♂2436♂" />
+        <node Nm="logo.jpg" T="2010-9-9 14:40:27♂1738♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:16♂32700♂" />
+      </node>
+      <node Nm="132常熟开关制造有限公司" T="132常熟开关制造有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:50:02♂1664♂" />
+        <node Nm="logo.jpg" T="2012-11-9 15:56:26♂3499♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:16♂3485♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-20 14:53:40♂326♂" />
+    </node>
+    <node Nm="122管道与管接头" T="122管道与管接头">
+      <node Nm="001上海东流高压管件有限公司" T="001上海东流高压管件有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:55:53♂2237♂" />
+        <node Nm="logo.jpg" T="2008-11-17 10:25:46♂2058♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:16♂16394♂" />
+      </node>
+      <node Nm="113滕州市宇航旋转接头制造有限公司" T="113滕州市宇航旋转接头制造有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:56:16♂2459♂" />
+        <node Nm="logo.jpg" T="2013-6-28 10:43:42♂4927♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:17♂11474♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-6-28 11:38:19♂354♂" />
+    </node>
+    <node Nm="123法兰" T="123法兰">
+      <node Nm="001博纳斯锻造有限公司" T="001博纳斯锻造有限公司">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-7-20 14:58:30♂2505♂" />
+        <node Nm="logo.jpg" T="2010-8-17 15:20:03♂31313♂" />
+        <node Nm="tvv6.mdzip" T="2013-8-1 15:14:17♂12792♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-6-28 11:38:21♂197♂" />
+    </node>
+    <node Nm="601标准件库" T="601标准件库">
+      <node Nm="101组合夹具库" T="101组合夹具库">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-8-2 17:44:56♂724♂" />
+        <node Nm="logo.jpg" T="2013-7-9 9:40:12♂7793♂" />
+      </node>
+      <node Nm="102冲模标准模架" T="102冲模标准模架">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-8-1 10:44:27♂1098♂" />
+        <node Nm="logo.jpg" T="2013-7-9 9:40:40♂9227♂" />
+        <node Nm="tvv6.mdzip" T="2013-7-27 11:26:16♂104143♂" />
+      </node>
+      <node Nm="103石油化工管件" T="103石油化工管件">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-8-1 11:01:20♂643♂" />
+        <node Nm="logo.jpg" T="2013-7-9 9:41:12♂6342♂" />
+        <node Nm="tvv6.mdzip" T="2013-7-27 11:26:16♂74585♂" />
+      </node>
+      <node Nm="104法兰库" T="104法兰库">
+        <node Nm="md_b" T="md_b" />
+        <node Nm="desca.htm" T="2013-8-1 10:46:47♂574♂" />
+        <node Nm="logo.jpg" T="2013-7-9 9:42:14♂7382♂" />
+        <node Nm="tvv6.mdzip" T="2013-7-27 11:26:16♂136297♂" />
+      </node>
+      <node Nm="desca.htm" T="2013-7-24 18:10:04♂179♂" />
+    </node>
+    <node Nm="desca.htm" T="2013-8-1 9:41:46♂3972♂" />
+    <node Nm="jquery.js" T="2013-8-14 11:02:28♂2994♂" />
+  </node>
+</node>
